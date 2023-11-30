@@ -1,7 +1,7 @@
 ## Interface: 100200
 ## Version: 1.0.0
 ## Title: THATS MY SON
-## Notes: My first addon
+## Notes: THATS MY BOY
 ## Author: Mesmeran
 
 THATSMYSON.lua
